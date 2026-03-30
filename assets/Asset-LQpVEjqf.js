@@ -1,0 +1,1 @@
+import{a,b as s}from"./viewManager-CXjzYezn.js";import"./dbAssetManager-CM7hVpaL.js";import{d as n,h as t,r,b as i,o as p,p as m}from"./index-D64XyYKx.js";import"./index-Cp9EL84Z.js";const g=n({__name:"Asset",setup(c){const e=a();m(s,e);const o=e.component;return e.initialize(),(_,f)=>(p(),t(r(i(o))))}});export{g as default};

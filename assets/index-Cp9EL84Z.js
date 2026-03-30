@@ -1,0 +1,1 @@
+import{q as s,v as c}from"./index-D64XyYKx.js";function a(){const n=c(),p=c(),e=[];return{activeSubView:s(n),activeProps:s(p),get stackDepth(){return e.length},pushActiveSubView(t,o){e.push({component:t,props:o}),p.value=o,n.value=t},popActiveSubView(){e.pop();const{component:t,props:o}=e.length>0?e[e.length-1]:{};n.value=t,p.value=o}}}export{a as u};
